@@ -1,5 +1,7 @@
 # PROYECTO FINAL DE PROGRAMACIÓN
 
+AUTORES: Miguel, Gabriel etc
+
 # PROBLEMA
 
 
